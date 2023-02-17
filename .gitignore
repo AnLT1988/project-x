@@ -1,0 +1,7 @@
+Lib/*
+Scripts
+input
+output
+pyvenv.cfg
+misc/
+*.bat
