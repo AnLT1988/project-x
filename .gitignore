@@ -5,3 +5,6 @@ output
 pyvenv.cfg
 misc/
 *.bat
+dist
+*.egg-info
+__pycache__
